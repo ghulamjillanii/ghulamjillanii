@@ -1,0 +1,12 @@
+torch
+transformers
+langchain
+openai
+fastapi
+uvicorn
+boto3
+sage-maker
+scikit-learn
+pandas
+numpy
+python-dotenv
